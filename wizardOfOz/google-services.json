@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "1058327618463",
+    "firebase_url": "https://storybook-wizardofoz.firebaseio.com",
+    "project_id": "storybook-wizardofoz",
+    "storage_bucket": "storybook-wizardofoz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058327618463:android:d2c95bd5f27984e9",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.wizardofoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058327618463-4q1n28lcd16h64j37p35s3fegjt4jqum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_cvtVf5pw-s-UcN-0DkyHSORbMsvpcg"
+        },
+        {
+          "current_key": "AIzaSyCvPlOn1ZnllVhAtdv3RcIg3qHCD8oqJDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058327618463-4q1n28lcd16h64j37p35s3fegjt4jqum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Tue Apr 16 14:07:19 KST 2019
+7.path=fonts/Roboto-Regular.ttf
+2.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+5.set=ASSET
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=fonts/Roboto-Bold.ttf
+4.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=caption/preview_play_01.json
+5.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.set=ASSET
+3.path=fonts/Roboto-Light.ttf
+6.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=mp3/bgm_twwoo.mp3
+7.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=vibrator/test_vibrator.json
+0.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=fonts/Roboto-Medium.ttf
+1.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.baseType=DIRECTORY
+0.set=DEX

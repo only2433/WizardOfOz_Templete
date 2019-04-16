@@ -1,0 +1,4 @@
+#Tue Apr 16 14:07:18 KST 2019
+base.0=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
