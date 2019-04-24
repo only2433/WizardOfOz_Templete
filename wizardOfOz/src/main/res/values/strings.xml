@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
     <string name="press_backbutton_again">Touch [Back] button again to close app.</string>
     <string name="facebook_app_id">1163556057081085</string>
     <!-- Pay -->
