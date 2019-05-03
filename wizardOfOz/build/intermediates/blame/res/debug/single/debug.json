@@ -25,7 +25,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_recommand_app_scrollview_layout.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_recommand_app_scrollview_layout.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_recommand_app_scrollview_layout.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_gnb_down_btn.png.flat",
@@ -69,7 +69,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_thumbnail_check.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\thumbnail_check.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\thumbnail_check.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_background_color.xml.flat",
@@ -92,24 +92,24 @@
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\anim\\layout_animation_table.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_introduction_people_item.xml.flat",
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\layout\\introduction_people_item.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\layout\\mtrl_layout_snackbar_include.xml"
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\layout\\mtrl_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_icon_appinstall_en.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\icon_appinstall_en.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\icon_appinstall_en.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_like_background.xml.flat",
@@ -240,16 +240,16 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-xhdpi\\com_facebook_tooltip_black_xout.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_white_small.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\layout\\messenger_button_send_white_small.xml"
     },
     {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab01_off.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab01_off.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab01_off.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -257,7 +257,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_ok_promotion.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_ok_promotion.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_ok_promotion.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -288,24 +288,24 @@
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\anim\\layout_grid_inverse_fade.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_design_bottom_navigation_item_background.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_selector_all_play_button.xml.flat",
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable\\selector_all_play_button.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_radio_button_on_promotion.png.flat",
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable-nodpi\\radio_button_on_promotion.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
@@ -316,12 +316,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_app_bg.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\app_bg.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_app_bg.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\app_bg.png"
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_thumbnail_13.jpg.flat",
@@ -337,7 +337,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_promotion_code.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_promotion_code.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_promotion_code.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -356,12 +356,12 @@
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable-nodpi\\character02.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_spinner_04.png.flat",
-        "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable-nodpi\\spinner_04.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\anim_push_left_in.xml.flat",
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_spinner_04.png.flat",
+        "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable-nodpi\\spinner_04.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_icon_06.png.flat",
@@ -408,12 +408,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -573,7 +573,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_promotion_code_result_list_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_promotion_code_result_list_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_promotion_code_result_list_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
@@ -633,7 +633,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_promotion_code_result_list.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_promotion_code_result_list.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_promotion_code_result_list.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_btn_stop_normal.png.flat",
@@ -660,16 +660,16 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3e8ec795fd36e402e188a6efa68237f5\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\3e8ec795fd36e402e188a6efa68237f5\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_iac.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_iac.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_iac.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
@@ -684,12 +684,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\7529c429234824359093510a23c2dc23\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
@@ -768,12 +768,12 @@
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\anim\\layout_random_fade.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
@@ -925,15 +925,15 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_thumbnail_check_border.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\thumbnail_check_border.png"
-    },
-    {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\LittlefoxLogMoniter-1.0.4.aar\\4671aa9d0524892c8330d7df0e1b6cbf\\res\\mipmap-xxxhdpi-v4\\ic_launcher_round.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\thumbnail_check_border.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector.xml.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\LittlefoxLogMoniter-1.0.4.aar\\4671aa9d0524892c8330d7df0e1b6cbf\\res\\mipmap-xxxhdpi-v4\\ic_launcher_round.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_text_color.xml.flat",
@@ -989,7 +989,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_thumbnaill_recycler_view_tablet_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\thumbnaill_recycler_view_tablet_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\thumbnaill_recycler_view_tablet_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_ic_launcher_round.png.flat",
@@ -1012,12 +1012,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-xxhdpi\\messenger_button_send_round_shadow.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_blue_large.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\layout\\messenger_button_send_blue_large.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_messenger_button_send_blue_large.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\layout\\messenger_button_send_blue_large.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
@@ -1044,12 +1044,12 @@
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\xml\\network_security_config.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messenger_button_send_round_shadow.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-hdpi\\messenger_button_send_round_shadow.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_thumbnail_05.jpg.flat",
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable-nodpi\\thumbnail_05.jpg"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messenger_button_send_round_shadow.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-hdpi\\messenger_button_send_round_shadow.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1108,12 +1108,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_close_promotion.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_close_promotion.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_close_promotion.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_close_promotion.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
@@ -1168,12 +1168,12 @@
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\anim\\zoom_enter.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\animator\\mtrl_chip_state_list_anim.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\animator\\mtrl_chip_state_list_anim.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
@@ -1196,12 +1196,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-xhdpi\\com_facebook_tooltip_black_background.9.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_selector_player_pause_button.xml.flat",
-        "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable\\selector_player_pause_button.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_com_facebook_tooltip_blue_xout.png.flat",
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable-hdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_selector_player_pause_button.xml.flat",
+        "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable\\selector_player_pause_button.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1320,12 +1320,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_thumbnail_02.jpg.flat",
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable-nodpi\\thumbnail_02.jpg"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_checked_circle.xml.flat",
@@ -1377,7 +1377,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_onel_payment.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_onel_payment.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_onel_payment.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
@@ -1477,7 +1477,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_app_box.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_app_box.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_app_box.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_list_line.png.flat",
@@ -1657,7 +1657,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_thumbnail_item_tablet.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\thumbnail_item_tablet.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\thumbnail_item_tablet.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1704,12 +1704,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4cc780d9222620debf338d12f29adb89\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1721,7 +1721,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_thumbnail_lock.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\thumbnail_lock.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\thumbnail_lock.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_messenger_bubble_small_blue.png.flat",
@@ -1789,7 +1789,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_tablet_thumbnail_check.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\tablet_thumbnail_check.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\tablet_thumbnail_check.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
@@ -2153,7 +2153,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_appraisal.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_appraisal.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_appraisal.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -2305,7 +2305,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_bg.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_bg.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_bg.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_messenger_bubble_large_white.png.flat",
@@ -2353,7 +2353,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab03_off.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab03_off.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab03_off.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_footer_logo_ios.png.flat",
@@ -2421,7 +2421,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab03_on.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab03_on.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab03_on.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_introduction_people_item_tablet.xml.flat",
@@ -2601,11 +2601,11 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_icon_appinstall_kr.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\icon_appinstall_kr.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\icon_appinstall_kr.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_tablet_thumbnail_lock.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\tablet_thumbnail_lock.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\tablet_thumbnail_lock.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
@@ -2641,7 +2641,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_appraisal.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_appraisal.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_appraisal.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -2701,7 +2701,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab02_on.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab02_on.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab02_on.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color_cpb_error_state_selector.xml.flat",
@@ -2741,7 +2741,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_thumbnail_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\thumbnail_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\thumbnail_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_player_seekbar_progress.xml.flat",
@@ -2773,7 +2773,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_credit.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_credit.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_credit.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
@@ -2805,7 +2805,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab01_on.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab01_on.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab01_on.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
@@ -2820,12 +2820,12 @@
         "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\0860d8783f81754d00ce8f64eb0d02b3\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_white_bg_selector.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable\\messenger_button_white_bg_selector.xml"
-    },
-    {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tablet_top_btn_down.png.flat",
         "source": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\src\\main\\res\\drawable-nodpi\\tablet_top_btn_down.png"
+    },
+    {
+        "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_white_bg_selector.xml.flat",
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\df6a5d792522442053ad1d01722e5161\\res\\drawable\\messenger_button_white_bg_selector.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\animator-v21_design_appbar_state_list_animator.xml.flat",
@@ -2961,7 +2961,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_bg_promotion.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\bg_promotion.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\bg_promotion.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
@@ -3105,7 +3105,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_recommend_tab02_off.9.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\recommend_tab02_off.9.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\recommend_tab02_off.9.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_writer_close_btn.png.flat",
@@ -3153,7 +3153,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_thumbnaill_recycler_view_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\thumbnaill_recycler_view_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\thumbnaill_recycler_view_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -3217,7 +3217,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_recommand_app_item.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_recommand_app_item.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_recommand_app_item.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
@@ -3269,7 +3269,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_close_appraisal.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_close_appraisal.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_close_appraisal.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_ripple_color.xml.flat",
@@ -3333,11 +3333,11 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_btn_all_payment.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\btn_all_payment.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\btn_all_payment.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\layout_dialog_payment.xml.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\layout\\dialog_payment.xml"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\layout\\dialog_payment.xml"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
@@ -3373,7 +3373,7 @@
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_thumbnail_download_bg.png.flat",
-        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\9c289fccb690d4306d83563acb56295d\\res\\drawable-nodpi-v4\\thumbnail_download_bg.png"
+        "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\bf82b87efbbed9e31c14e80333c72beb\\res\\drawable-nodpi-v4\\thumbnail_download_bg.png"
     },
     {
         "merged": "D:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\res\\merged\\debug\\anim_shake.xml.flat",

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Apr 16 14:07:19 KST 2019
+#Fri May 03 12:23:34 KST 2019
 7.path=fonts/Roboto-Regular.ttf
 2.base=D\:\\android_studio_workspace\\WizardOfOz_Templete\\wizardOfOz\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 5.set=ASSET
